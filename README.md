@@ -1,5 +1,4 @@
-<p align="center">
-  <img src="https://i.imgur.com/your-banner-image.png" alt="Your Banner"> </p>
+
 
 Hi, I'm @Mathimendes77
 
@@ -36,9 +35,7 @@ Hi, I'm @Mathimendes77
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img alt="React.js" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 </p>
 
 ---
