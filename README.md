@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @Mathmendes77
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
-
 <p align="center">
   <img src="https://i.imgur.com/your-banner-image.png" alt="Your Banner"> </p>
 
@@ -62,6 +58,3 @@ Hi, I'm @Mathimendes77
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
 </p>
-
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
