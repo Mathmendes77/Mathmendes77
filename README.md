@@ -12,8 +12,8 @@ Hi, I'm @Mathimendes77
 
 ### Social Links:
 
-[<img align="left" alt="Mathimendes77 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/mathimendes77)
-[<img align="left" alt="Mathimendes77 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/matheus-mendes-92a08823b/)
+[<img align="left" alt="Mathimendes77 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/math.mendes._/)
+[<img align="left" alt="Mathimendes77 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/mathmendesj77/)
 
 <br>
 <br>
