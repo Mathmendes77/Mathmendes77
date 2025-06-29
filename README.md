@@ -21,10 +21,10 @@
 
 ### 🌐 Social Links:
 
-<a href="https://www.instagram.com/mathimendes77" target="_blank">
+<a href="https://www.instagram.com/math.mendes._/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
-<a href="https://www.linkedin.com/in/matheus-mendes-92a08823b/" target="_blank">
+<a href="https://www.linkedin.com/in/mathmendesj77/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
